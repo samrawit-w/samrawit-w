@@ -49,7 +49,7 @@ I enjoy combining clean UI/UX design with powerful backend functionality to crea
 
 ## 📫 Connect With Me
 
-🔗 LinkedIn:www.linkedin.com/in/samrawit-wubshet
+🔗 LinkedIn: https://www.linkedin.com/in/samrawitwubshet
  
 🌐 Portfolio: https://samrawit-w.github.io/
 
